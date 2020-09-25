@@ -1,0 +1,42 @@
+mat-card-footer
+{
+    padding-left: 5%;
+    padding-bottom: 1rem;;
+}
+
+.action-button
+{
+    margin-left: 1rem;
+}
+
+.mat-card img
+{
+    border-radius:5px;
+    height: 350px;
+    width:280px;
+    padding:1%;
+    margin-bottom: 1rem;
+}
+
+.book
+{
+    margin-bottom: 1rem;
+}
+.mat-card
+{
+    height: fit-content;
+}
+
+h5
+{
+    color : lightslategray;
+}
+
+.badge-info
+{
+    margin-left : 2px;
+}
+.avatar
+{
+    font-size: 30px;
+}

@@ -1,0 +1,43 @@
+.bg
+{
+    background-image: url("../../../../../assets/images/library.jpg");
+    background-size: cover;
+    height: 100%;
+}
+
+#header
+{
+    color : blue;
+    margin-top: 10% ;
+    text-align: center;
+    font-size: 100px;
+}
+
+#menu
+{
+    top:25%;
+    left : 12%;
+    height: 5%;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+}
+
+.action-button
+{
+    width:400px;
+    height: 100px;
+    text-align: center;
+    margin-right: 2rem;
+}
+
+.auto-flip
+{
+    font-size: 50px;
+    margin-right: 1rem;
+    display: inline;
+}
+
+#menu button{
+    border-radius: 10px;
+}
